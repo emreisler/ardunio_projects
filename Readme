@@ -1,3 +1,2 @@
-// to allow to user serial port on linux 
-allow USB port
+// allow USB port to allow to user serial port on linux with command below
 sudo chmod 666 /dev/ttyUSB0
